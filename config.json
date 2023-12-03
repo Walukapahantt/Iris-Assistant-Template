@@ -1,7 +1,7 @@
 {
-    "token": "Your Token Here",
-    "mongo": "Your Mongo Uri",
-    "clientId": "Your Bot Id"
+    "token": "MTE4MDEyNDYyNjQ3OTc1OTM2MA.GQvVd-._TWDnxkqAPHrZPf-lbuS0_2vdwy8vEb7c0orvc",
+    "mongo": "mongodb+srv://waluka:waluka69@sri1.dxlfpur.mongodb.net/?retryWrites=true&w=majority",
+    "clientId": "1180124626479759360"
     
 }
 
